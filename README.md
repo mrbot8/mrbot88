@@ -11,7 +11,7 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
 </p>
 <p align="center">
-<img src="https://www.crackingpro.com/uploads/team_VIP.gif" width="200" height="80"/>
+<img src="https://tenor.com/es/ver/light-yagami-death-note-anime-gif-18139397" width="200" height="80"/>
 </p>
 <img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/> LIGHT🐬
 </p>
